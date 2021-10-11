@@ -7,3 +7,7 @@ Lee Jun Eui , Department of Information System
 Valiukenas, Airidas Tomas
 
 Kouadio, Laura
+
+Title : Smart Recipe Guide
+
+Proposal : 
