@@ -6,9 +6,9 @@
 
 #### Lee Jun I , Department of Information System, lji123ji-@naver.com 
 
-#### Valiukenas, Airidas Tomas , airidas.valiukenas@ktu.edu
+#### Valiukenas, Airidas Tomas , Department of Computer science, airidas.valiukenas@ktu.edu
 
-#### Kouadio, Laura, Electronics and Computer science , laura.kouaio@ensea.fr 
+#### Kouadio, Laura, Department of Electronics and Computer science , laura.kouaio@ensea.fr 
 
 ## Title
 #### AI Cooking manager - Ghost CookKing
