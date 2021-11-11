@@ -20,4 +20,4 @@
 ## DataSet
 
 
-## Methodlogy
+## Methodology
