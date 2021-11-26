@@ -17,7 +17,7 @@
 
 ####  AI cooking assistant - Ghost CookKing - is a dish recipe recommendation system and will let us know the cooking steps. So to speak, we are trying to make a service that acts like a kitchen assistant. A User of LG signature appliance can use an application called 'Signature Kitchen Suite'. One of this application's function is that a user can see what's in his refrigerator. We can import the list of ingredients from refrigerator. We will use Kaggle's recipe dataset or a recipebox dataset that nicely scraped from websites. From now we're considering relu softmax method but it can be changed. Using the recipe dataset, ingredients and classification system, Ghost CookKing will make a suggestion based on existing ingredients and user's command, and let us know what to buy more to cook that dish. Moreover, when you start cooking, you will be informed of the cooking process step by step. If possible, it will be improved by automatic adjustment of of fire or oven.
 
-![latex2](https://user-images.githubusercontent.com/95012070/143515817-ffef0ab8-f775-468a-bd44-f2d2394b812b.png){: width="50%" height="50%"}
+<img src = "https://user-images.githubusercontent.com/95012070/143515817-ffef0ab8-f775-468a-bd44-f2d2394b812b.png" width ="40%" height="40%">
 
 ## DATASET
 식품의약품안전처의 레시피 과정 정보 OpenAPI를 요청해 CSV 파일로 데이터전처리를 하였음.
