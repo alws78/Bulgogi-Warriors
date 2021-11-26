@@ -22,3 +22,8 @@
 
 ## Methodology
 KOGPT-2는 머신러닝 알고리즘을 활용해 입력된 샘플 텍스트를 구문론적, 문법적 정보 등의 일관성을 갖춘 텍스트로 생성하는 자연어 처리 모델이다. 한국어로 학습된 오픈소스 기반 GPT-2 모델인 KoGPT-2는 질문에 대한 응답 생성, 문장 완성, 챗봇 등 한국어 해석이 필요한 여러 애플리케이션의 머신러닝 성능을 향상시킬 수 있다.
+
+
+## References
+1. 식품의약안전처 공공데이터: https://www.foodsafetykorea.go.kr/apiMain.do
+2. KoGPT2: https://github.com/SKT-AI/KoGPT2
