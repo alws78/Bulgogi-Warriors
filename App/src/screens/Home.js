@@ -12,7 +12,7 @@ export default function Home({ updateAuthState }) {
   }
   return (
     <View style={styles.container}>
-      <Text>  + </Text>
+      <Text>   </Text>
       <Button title="Sign Out" color="tomato" onPress={signOut} />
     </View>
   );
