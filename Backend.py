@@ -102,8 +102,8 @@ api = Api(app)
 
 class Getparams(Resource):
     def post(self):
-        data = json.loads(request.data)  # json road 는 이렇게~
-        print('data', data)
+        data = request.get_json() # json road 는 이렇게~
+        print(data)
 
         find_ingredients = []
 
@@ -129,4 +129,4 @@ class Getparams(Resource):
 api.add_resource(Getparams, '/bring.ingredients')
 
 if __name__ == "__main__":
-    app.run(debug=True)  # 이건 그냥 수정하면 알아서 재실행 하게 하는거.  있으면 편함
+    app.run(debug=True,host='0.0.0.0',port=5000)  # 이건 그냥 수정하면 알아서 재실행 하게 하는거.  있으면 편함
