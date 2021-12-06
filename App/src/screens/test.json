@@ -1,0 +1,15 @@
+{
+    "action": {
+      "actionName": "bring_ingredients",
+      "parameters": {
+        "ingredient_one": {
+          "type": "ingredient_one",
+          "value": "감자"
+        },
+        "isValidTime": {
+          "type": null,
+          "value": null
+        }  
+      }
+    }
+    }

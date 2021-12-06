@@ -8,6 +8,8 @@ import Amplify from 'aws-amplify';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { createDrawerNavigator } from '@react-navigation/drawer';
+import AppLoading from 'expo-app-loading';
+import * as Font from 'expo-font';
 import config from './src/aws-exports';
 Amplify.configure({
   ...config,
@@ -83,9 +85,16 @@ const Initializing = () => {
   );
 };
 
+const getFonts = () => Font.loadAsync({
+  'LobsterTwo-Italic': require('./assets/fonts/LobsterTwo-Italic.ttf'),
+  'Pacifico-regular':  require('./assets/fonts/Pacifico-Regular.ttf')
+  
+})
 function App() {
   const [isUserLoggedIn, setUserLoggedIn] = useState('initializing');
-    
+
+  getFonts();
+
   async function signOut() {
     try {
       await Auth.signOut();

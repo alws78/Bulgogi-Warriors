@@ -10,6 +10,7 @@ export default function Home({ updateAuthState }) {
       console.log('Error signing out: ', error);
     }
   }
+
   return (
     <View style={styles.container}>
       <Text>   </Text>

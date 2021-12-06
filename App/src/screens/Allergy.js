@@ -5,7 +5,6 @@ import styles from "./AllergyStyles";
 
 const Allergy = (props) =>{
 
-
     const [enteredGoal,setEnteredGoal]=useState('');
     const [courseGoals,setCourseGoals]=useState([]);
 
