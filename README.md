@@ -14,7 +14,7 @@
 #### AI Cooking manager - Ghost CookKing
 
 ## Notion
-#### Cook_King notion : https://www.notion.so/Cook_King-cc752a2fa5d54c85bf47ac5fe12104ff
+#### Cook_King notion : https://www.notion.so/Cook_King-cc752a2fa5d54c85bf47ac5fe12104ff //자세한 사항은 노션을 참고해주세요.
 
 ## Introduction
 
